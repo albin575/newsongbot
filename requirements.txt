@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+yt-dlp>=2024.8.6
+youtube-search==1.2.1
+requests==2.32.3
+flask==3.0.3
